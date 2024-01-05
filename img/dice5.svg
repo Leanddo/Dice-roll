@@ -1,0 +1,9 @@
+<svg width="229" height="229" viewBox="0 0 229 229" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 40C0 17.9086 17.9086 0 40 0H189C211.091 0 229 17.9086 229 40V209C229 220.046 220.046 229 209 229H40C17.9086 229 0 211.091 0 189V40Z" fill="black"/>
+<rect x="5" y="5" width="200" height="200" rx="15" fill="white" stroke="black" stroke-width="10"/>
+<circle cx="49" cy="55" r="25" fill="black"/>
+<circle cx="162" cy="55" r="25" fill="black"/>
+<circle cx="49" cy="155" r="25" fill="black"/>
+<circle cx="105" cy="105" r="25" fill="black"/>
+<circle cx="162" cy="155" r="25" fill="black"/>
+</svg>

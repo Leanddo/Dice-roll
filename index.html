@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <main>
+      <h1>Dice roll</h1>
+      <p id="playerp">The player</p><span id="playerspan"></span>
+      <div class="flex">
+        <div id="dicediv">
+          <p>Player <span style="color: red">1</span></p>
+          <img class="dice" src="img/diceempty.svg" alt="" />
+          <p id="valor1"></p>
+        </div>
+
+        <div id="dicediv">
+          <p>Player <span style="color: blue">2</span></p>
+          <img class="dice" src="img/diceempty.svg" alt="" />
+          <p id="valor2"></p>
+        </div>
+      </div>
+
+      <button onclick="diceroll()">Roll the dices</button>
+    </main>
+  </body>
+</html>
