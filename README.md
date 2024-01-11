@@ -21,7 +21,6 @@ Welcome to the Dice Roll Game! This simple web-based game allows you to roll vir
 - Git e Github
 - javascript
 
-
 ## ⚖ Licence
 
 This project has a MIT licence.
