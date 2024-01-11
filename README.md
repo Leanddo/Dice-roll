@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![preview]()
+![preview](./.github/Dice-roll-preview.gif)
 
 </div>
 
